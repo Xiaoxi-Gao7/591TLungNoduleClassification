@@ -3,7 +3,7 @@
 [![Kaggle](https://img.shields.io/badge/Data-Kaggle-blue)](https://www.kaggle.com/datasets/zhangweiled/lidcidri)
 [![UBC](https://img.shields.io/badge/Affiliation-UBC-gold)](https://bme.ubc.ca/)
 
-This project develops a deep learning system for lung nodule classification. It features a custom **V4 Dual-Path Architecture** and a **Hierarchical Sampling** strategy to improve diagnostic accuracy on the LIDC-IDRI dataset.
+This project develops a deep learning system for lung nodule classification. It features a custom V4 Dual-Path Architecture and a Hierarchical Sampling strategy to improve diagnostic accuracy on the LIDC-IDRI dataset.
 
 ## 📖 Key Features
 - **Evolutionary Design**: Transitioned from baseline CNNs to a multi-scale V4 architecture to capture both local textures and global anatomical context.
